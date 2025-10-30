@@ -1,0 +1,10 @@
+2025-10-22 20:54:43,897 [INFO] Extrayendo datos para Mexico City desde 2025-10-21 20:54:43.897560 hasta 2025-10-22 20:54:43.897560
+2025-10-22 20:54:43,952 [INFO] Extrayendo datos para Madrid desde 2025-10-21 20:54:43.897560 hasta 2025-10-22 20:54:43.897560
+2025-10-22 20:54:44,008 [INFO] Extrayendo datos para Toronto desde 2025-10-21 20:54:43.897560 hasta 2025-10-22 20:54:43.897560
+2025-10-22 20:54:44,059 [INFO] Extracción completa: 72 registros obtenidos
+2025-10-22 20:54:44,113 [INFO] Datos guardados en data_raw_weather.csv
+2025-10-22 21:58:17,307 [INFO] Extrayendo datos para Mexico City desde 2025-10-21 21:58:17.307133 hasta 2025-10-22 21:58:17.307133
+2025-10-22 21:58:19,492 [INFO] Extrayendo datos para Madrid desde 2025-10-21 21:58:17.307133 hasta 2025-10-22 21:58:17.307133
+2025-10-22 21:58:20,095 [INFO] Extrayendo datos para Toronto desde 2025-10-21 21:58:17.307133 hasta 2025-10-22 21:58:17.307133
+2025-10-22 21:58:20,377 [INFO] Extracción completa: 72 registros obtenidos
+2025-10-22 21:58:20,592 [INFO] Datos guardados en data_raw_weather.csv
